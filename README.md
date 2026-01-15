@@ -27,7 +27,7 @@ Users can enter the app as a **Teacher** or **Parent**, which determines access 
 ---
 
 ### 👨‍🏫 Teacher Experience — Student & Assignment Management
-<img src="screenshots/concept-teacher-dashboard.png" width="300" />
+<img width="1459" height="717" alt="Screenshot 2026-01-15 at 3 13 57 PM" src="https://github.com/user-attachments/assets/c23a921b-52a2-40af-aeb6-4008e47f300a" />
 <img width="1459" height="717" alt="Screenshot 2026-01-15 at 3 13 57 PM" src="https://github.com/user-attachments/assets/b0ea72f7-8b2d-4de4-9eb3-ce5a361b14ff" />
 
 Teachers can:
