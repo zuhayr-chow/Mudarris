@@ -11,9 +11,9 @@ This repository represents a **Product Management case study**, emphasizing disc
 
 ---
 
-## 📱 Product Demo Screens (Mobile App Concept)
+## 📱 Product Demo Screens (Web App Concept)
 
-Below are **conceptual demo screens** illustrating the core user experience of **Mudarris**, a mobile-first Qur’an assignment and progress-tracking app designed for teachers and parents.
+Below are **conceptual demo screens** illustrating the core user experience of **Mudarris**, a Qur’an assignment and progress-tracking app designed for teachers and parents.
 
 These screens focus on **user flows, role separation, and product design decisions**, rather than final visual polish.
 
@@ -48,7 +48,7 @@ Parents can:
 ---
 
 **Notes**
-- Mobile-first UI concepts
+- Web app UI concepts
 - Designed to simulate a phone app experience on desktop
 - Screens represent planned product functionality and user flows
 
