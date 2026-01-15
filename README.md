@@ -20,14 +20,14 @@ These screens focus on **user flows, role separation, and product design decisio
 ---
 
 ### 🔐 Login & Role Selection
-<img src="screenshots/concept-login.png" width="300" />
+<img width="1470" height="713" alt="Screenshot 2026-01-15 at 3 24 29 PM" src="https://github.com/user-attachments/assets/3433fea5-cb65-43c8-bb0c-d05aa4bae964" />
 
 Users can enter the app as a **Teacher** or **Parent**, which determines access and visibility throughout the app.
 
 ---
 
 ### 👨‍🏫 Teacher Experience — Student & Assignment Management
-<img width="1459" height="717" alt="Screenshot 2026-01-15 at 3 13 57 PM" src="https://github.com/user-attachments/assets/c23a921b-52a2-40af-aeb6-4008e47f300a" />
+<img width="1469" height="719" alt="Screenshot 2026-01-15 at 3 25 54 PM" src="https://github.com/user-attachments/assets/b66986bd-b31b-411b-9810-5e0b2b20f6fb" />
 <img width="1459" height="717" alt="Screenshot 2026-01-15 at 3 13 57 PM" src="https://github.com/user-attachments/assets/b0ea72f7-8b2d-4de4-9eb3-ce5a361b14ff" />
 
 Teachers can:
