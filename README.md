@@ -11,6 +11,49 @@ This repository represents a **Product Management case study**, emphasizing disc
 
 ---
 
+## 📱 Product Demo Screens (Mobile App Concept)
+
+Below are **conceptual demo screens** illustrating the core user experience of **Mudarris**, a mobile-first Qur’an assignment and progress-tracking app designed for teachers and parents.
+
+These screens focus on **user flows, role separation, and product design decisions**, rather than final visual polish.
+
+---
+
+### 🔐 Login & Role Selection
+<img src="screenshots/concept-login.png" width="300" />
+
+Users can enter the app as a **Teacher** or **Parent**, which determines access and visibility throughout the app.
+
+---
+
+### 👨‍🏫 Teacher Experience — Student & Assignment Management
+<img src="screenshots/concept-teacher-dashboard.png" width="300" />
+<img src="screenshots/concept-add-assignment.png" width="300" />
+
+Teachers can:
+- View students grouped by class
+- Create Qur’an assignments (surah, ayah range, category, due date)
+- Add notes tied to student progress
+
+---
+
+### 👨‍👩‍👧 Parent Experience — Progress Tracking
+<img src="screenshots/concept-parent-view.png" width="300" />
+
+Parents can:
+- View only their own children
+- Track assigned work
+- Mark assignments as completed
+
+---
+
+**Notes**
+- Mobile-first UI concepts
+- Designed to simulate a phone app experience on desktop
+- Screens represent planned product functionality and user flows
+
+---
+
 ## Problem
 
 Qur’an education is often delivered through personalized, traditional instruction. However, lesson tracking and communication are frequently handled through informal tools such as:
