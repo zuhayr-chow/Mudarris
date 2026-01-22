@@ -49,7 +49,6 @@ Parents can:
 
 **Notes**
 - Web app UI concepts
-- Designed to simulate a phone app experience on desktop
 - Screens represent planned product functionality and user flows
 
 ---
